@@ -1,7 +1,6 @@
 # Olá 👋, eu sou o Eduardo Pio
 
-🚀 **Desenvolvedor Full Stack Júnior | Node.js & JavaScript** 
-📍 Salvador, BA - Brasil
+🚀 **Desenvolvedor Full Stack Júnior | Node.js & JavaScript** 📍 Salvador, BA - Brasil
 
 Estudante de Desenvolvimento de Sistemas no **SENAI CIMATEC**, focado na criação de aplicações web completas (End-to-End).  
 Tenho experiência prática com arquitetura MVC, integração de banco de dados e criação de interfaces responsivas. Meu objetivo é transformar lógica estruturada em soluções reais e limpas.
@@ -47,14 +46,13 @@ Tenho experiência prática com arquitetura MVC, integração de banco de dados 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas & Em Estudo
+### Ferramentas e em Estudo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
-
 
 ## 🚀 Filosofia
 
