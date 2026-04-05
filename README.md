@@ -55,14 +55,6 @@ Tenho experiência prática com arquitetura MVC, integração de banco de dados 
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduBNP&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduBNP&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
----
 
 ## 🚀 Filosofia
 
