@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Eduardo Pio
+# Olá 👋, eu sou Eduardo Pio
 
 🚀 **Desenvolvedor Full Stack Júnior | Node.js & JavaScript** 📍 Salvador, BA - Brasil
 
