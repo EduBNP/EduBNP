@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor Full Stack Júnior | Node.js & JavaScript** 📍 Salvador, BA - Brasil
 
-Estudante de Desenvolvimento de Sistemas no **SENAI CIMATEC**, focado na criação de aplicações web completas (End-to-End).  
+Estudante de Desenvolvimento de Sistemas no SENAI CIMATEC e futuro aluno de Engenharia de Software (Jul/2026), focado na criação de aplicações web, focado na criação de aplicações web completas (End-to-End).  
 Tenho experiência prática com arquitetura MVC, integração de banco de dados e criação de interfaces responsivas. Meu objetivo é transformar lógica estruturada em soluções reais e limpas.
 
 ---
